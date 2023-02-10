@@ -7,4 +7,4 @@ var currentScrollPos = window.pageYOffset;
     document.getElementById("top").style.visibility = "hidden";
   }
   prevScrollpos = currentScrollPos;
-}
+};
